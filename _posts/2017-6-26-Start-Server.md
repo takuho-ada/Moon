@@ -3,6 +3,7 @@ layout: post
 title: "Server Start Time Mod List"
 date: 2017-06-23
 tags: [minecraft, mod, server]
+excerpt: "6月23日現在のMOD導入状況を示したものです"
 comments: true
 ---
 
