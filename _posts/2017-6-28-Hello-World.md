@@ -3,6 +3,7 @@ layout: post
 title: "MODの追加導入"
 date: 2017-06-28
 tags: [minecraft, mod, server]
+excerpt: "Magneticraftとそれに伴う修正パッチの導入を行いました"
 comments: true
 ---
 
