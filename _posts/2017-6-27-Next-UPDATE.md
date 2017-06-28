@@ -2,6 +2,7 @@
 layout: post
 title: "MODの更新、及びメンテナンス"
 date: 2017-06-27
+excerpt: "5つのMODの削除を行い、2つのMODの追加を行いました。"
 tags: [minecraft, mod, server]
 comments: true
 ---
